@@ -30,3 +30,5 @@ https://www.youtube.com/watch?v=fBIAKV-KUZo&ab_channel=Mickado
 ### 11:00 am (9am pst) Scrum 
 ### 11:15  (9:15am pst) heading to library and organzing week and today and ensuring all materials i have 
 ### 1:37PM (11:37am pst) made it to library - had to wait for space to open up to work so travled to another libaray nearby but brainstormed while waited now gonna begin drawing /sketching things in figma and by hand
+
+## 1:46 pm (11:46 am pst) researching other webpages similar to my capstone project idea
