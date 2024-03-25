@@ -99,3 +99,10 @@ Integration with UFC API: For real-time data and updates.
 Detailed Fighter Profiles: Add more information such as biographies, career highlights, and social media links.
 Responsive Design: Ensure the web page adapts to various devices.
 This plan outlines a comprehensive approach to your capstone project, covering the essential features, tech stack, and additional considerations for a successful implementation.
+
+### 3:10 pm: switched pace and applied to jobs until 3:50 pm cst 
+3:10pm-3:50pm 
+
+### 3:50 PM CST  - unkonwn (wip) ( 1:50pm pst) Creating and Finishing Portfolio project for practice
+
+
