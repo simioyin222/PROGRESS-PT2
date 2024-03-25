@@ -107,3 +107,5 @@ This plan outlines a comprehensive approach to your capstone project, covering t
 https://github.com/simioyin222/Portfolio
 
 still creating - heading home (4:14)
+
+### 6:17 forgot to check in went back to creating portfolio have been updaring it with commits to update it fully
