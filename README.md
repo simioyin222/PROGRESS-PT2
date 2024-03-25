@@ -106,3 +106,4 @@ This plan outlines a comprehensive approach to your capstone project, covering t
 ### 3:50 PM CST  - unkonwn (wip) ( 1:50pm pst) Creating and Finishing Portfolio project for practice
 https://github.com/simioyin222/Portfolio
 
+still creating - heading home (4:14)
