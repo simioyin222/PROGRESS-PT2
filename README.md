@@ -64,3 +64,38 @@ Ideas
 - Navigation Bar should have “Feedback” tab like the google form where users can fill out any feedback they have
 - Navigation Bar should have “Game” tab (where the user can simulate battles against fighters using cards and their stats) there will be a line down the middle the user will have the a drop down list on both sides in which they will can choose the fighter they want from the apalbetical list the fighters (fight card will then pop up with a picture of them from google api specfeic search ) if the user wants to switch their card choice they just have to access the drop down list again and click the fighter they desire for both sides this drop down list will be on the side of the card already selected. after the user is all set they will click a button that says “RUMBLE!!” that will then lock the users selections in and activate the card game and deterine the winner based on the winner the card will be largened and say winner it will then have a button in the button right saying play again with a  curcled arrow it will then refresh the page back to a new game state to do it all again
 - The card game battles works on all the numbers/stats in the fighter profiles and ultimately the one with more positiive percentages is the winner the one factor that will be more advantageous and count for more is the number of knockouts or the number of submissions or both even both factors in terms of stats should count for more
+
+
+### 3:00 pm (1pm pst) Capstone Project Overview
+Detailed Overview
+A dynamic web page featuring real-time updates of UFC fighter statistics, a vs battle feature with collector cards, and a search feature for fighter profiles. The page will include:
+
+Navigation Bar: With filters for different stats and access to various features.
+Real-Time Updates: Displaying up-to-date UFC fighter statistics.
+VS Battle Feature: Users can select fighters, represented as collector cards, and make them battle each other. The winner is determined through a visually engaging clash animation.
+Search Feature: Users can look up any fighter, with auto-suggestions as they type. Clicking on a fighter's profile displays detailed information, including pictures and videos from Google and YouTube.
+Tech Stack
+Frontend: HTML, CSS, JavaScript, Bootstrap for styling and layout.
+Backend: Node.js with Express.
+Database: MongoDB.
+Real-time Updates: WebSockets, Socket.io.
+External APIs: Google Custom Search API, YouTube API.
+Responsive Design: Bootstrap or Tailwind CSS.
+Progressive Web App (PWA): Implement service workers, manifest file, HTTPS.
+API Management: Use an API gateway or management layer.
+Frontend Frameworks: React, Vue, or Angular for dynamic interfaces.
+SEO Optimization: Implement SSR or SSG with Next.js (for React).
+Security Measures: Implement HTTPS, CORS policies, content security policies, and sanitize user inputs.
+Performance Optimization: Use Google Lighthouse, optimize assets.
+Analytics and Monitoring: Google Analytics, Sentry.
+Project Goals and Features
+Navigation Bar: Includes "Home," "Fighters," "Feedback," and "Game" tabs.
+Home Page: Features current fight news, a brief introduction popup message, and updates.
+Fighters Tab: Allows filtering by weight class, alphabetical order, and experience level. Each fighter's profile includes stats, videos, and pictures.
+Game Tab: A card game where users can simulate battles between fighters using their stats. The winner is determined based on positive percentages, knockouts, and submissions.
+Feedback Tab: A form for users to provide feedback.
+Additional Considerations
+Integration with UFC API: For real-time data and updates.
+Detailed Fighter Profiles: Add more information such as biographies, career highlights, and social media links.
+Responsive Design: Ensure the web page adapts to various devices.
+This plan outlines a comprehensive approach to your capstone project, covering the essential features, tech stack, and additional considerations for a successful implementation.
