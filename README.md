@@ -31,4 +31,36 @@ https://www.youtube.com/watch?v=fBIAKV-KUZo&ab_channel=Mickado
 ### 11:15  (9:15am pst) heading to library and organzing week and today and ensuring all materials i have 
 ### 1:37PM (11:37am pst) made it to library - had to wait for space to open up to work so travled to another libaray nearby but brainstormed while waited now gonna begin drawing /sketching things in figma and by hand
 
-## 1:46 pm (11:46 am pst) researching other webpages similar to my capstone project idea
+### 1:46 pm (11:46 am pst) researching other webpages similar to my capstone project idea
+### 2:48 pm (12:48 pm pst) done researching and brainstorming how i want my project(capstone) to function fully and how i want it to work and look and naviagte and be routed now will begin sketching and drawing vision in mind 
+-DRAFT NOTES(GONNA MAKE MORE CONSISE IN CHAT GPT):
+Ideas 
+
+- Make Navigation Bar
+- Navigation Bar should have “Home” (You have a big popup message that briefly tells you about this app make it have bold text but transparent background so user can see real home page after exiting the pop up message) Home page will be current fight news from various sources (new video search of ufc , [ufc.com](http://ufc.com) news, ufc trend searcher of twitter and all new udates to page as hole under small tab that says updates
+- Navigation Bar should have “Fighters” tab ( will have 3 buttons to distunguish fighters by weight, alphabetical order, and experince level (beginner(young pup), advanced(vetran), intermidate(young bull
+- in each of these seprate sub tabs itll just the fighters name in a cool text by listed with a link to their page / fighter profile
+- upon clicking on fighter in which whatever route you take (weight class, alphaetical order, or number of fights)  it should bring the user to the fighter profile the fighter profile is another page in which it using an api to show all the clicked on fighter stats , 2 videos from youtube api that is searching “*fighter name* highlights ufc” addiontally will provide two pictures of the figher from google that searches “*fighter name* ufc”  the video and photos will be posted on each side while the stats of the fighter will be in the center and the fighters name will be a top as the title of the page
+- weight class will have another page in which itll have the
+1. Flyweight: 116 to 125 pounds (own/ another route to  page with all fighters in this weight class listed)
+2. Bantamweight: 126 to 135 pounds(own/ another route to  page with all fighters in this weight class listed)
+3. Featherweight: 136 to 145 pounds(own/ another route to  page with all fighters in this weight class listed)
+4. Lightweight: 146 to 155 pounds(own/ another route to  page with all fighters in this weight class listed)
+5. Welterweight: 156 to 170 pounds(own/ another route to  page with all fighters in this weight class listed)
+6. Middleweight: 171 to 185 pounds(own/ another route to  page with all fighters in this weight class listed)
+7. Light Heavyweight: 186 to 205 pounds(own/ another route to  page with all fighters in this weight class listed)
+8. Heavyweight: 206 to 265 pounds(own/ another route to  page with all fighters in this weight class listed)
+9. 
+
+**Women's Division:**
+
+1. Strawweight: Up to 115 pounds
+2. Flyweight: 116 to 125 pounds
+3. Bantamweight: 126 to 135 pounds
+4. Featherweight: 136 to 145 pounds (limited activity in this division)
+
+- alaphetical order one will have each fighter first name divded by their first letter , then you can find them by first name and acess fighter profiles through here as well
+- experince level be will be set up siimrlary to weight class dividing each fighter by that then once deciding on fighter based on wieght class your in fighters can by deatult be listed by most number of fights first and least number of fights last the user can alternatively switchig the filter so they sort it by the least number of fights at top and nost fights at bottom
+- Navigation Bar should have “Feedback” tab like the google form where users can fill out any feedback they have
+- Navigation Bar should have “Game” tab (where the user can simulate battles against fighters using cards and their stats) there will be a line down the middle the user will have the a drop down list on both sides in which they will can choose the fighter they want from the apalbetical list the fighters (fight card will then pop up with a picture of them from google api specfeic search ) if the user wants to switch their card choice they just have to access the drop down list again and click the fighter they desire for both sides this drop down list will be on the side of the card already selected. after the user is all set they will click a button that says “RUMBLE!!” that will then lock the users selections in and activate the card game and deterine the winner based on the winner the card will be largened and say winner it will then have a button in the button right saying play again with a  curcled arrow it will then refresh the page back to a new game state to do it all again
+- The card game battles works on all the numbers/stats in the fighter profiles and ultimately the one with more positiive percentages is the winner the one factor that will be more advantageous and count for more is the number of knockouts or the number of submissions or both even both factors in terms of stats should count for more
