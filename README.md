@@ -113,3 +113,4 @@ still creating - heading home (4:14)
 ## 10am cst - 11 am (8am pst) getting ready and heading to library getting organized 
 ### 11:15 am cst - unknowknow (9:15am pst) researching intuitive simple portfolio ideas 
 ### 1:01 pm cst  traveled to another library first one i went to (clc) wifi was slow now somehwere better and almost done researching and will start building again 
+### 1:015 PM CST done researrching will begin building again https://github.com/simioyin222/Portfolio
