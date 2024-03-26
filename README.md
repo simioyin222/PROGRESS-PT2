@@ -104,7 +104,7 @@ This plan outlines a comprehensive approach to your capstone project, covering t
 3:10pm-3:50pm 
 
 ### 3:50 PM CST  - unkonwn (wip) ( 1:50pm pst) Creating and Finishing Portfolio project for practice
-https://github.com/simioyin222/Portfolio
+[https://github.com/simioyin222/Portfolio](https://github.com/simioyin222/Portfolio-DRAFT-IGNORE)
 
 still creating - heading home (4:14)
 
@@ -113,5 +113,6 @@ still creating - heading home (4:14)
 ## 10am cst - 11 am (8am pst) getting ready and heading to library getting organized 
 ### 11:15 am cst - unknowknow (9:15am pst) researching intuitive simple portfolio ideas 
 ### 1:01 pm cst  traveled to another library first one i went to (clc) wifi was slow now somehwere better and almost done researching and will start building again 
-### 1:015 PM CST done researrching will begin building again https://github.com/simioyin222/Portfolio
+### 1:015 PM CST done researrching will begin building again [https://github.com/simioyin222/Portfolio-](https://github.com/simioyin222/Portfolio-DRAFT-IGNORE)
 ### 2:57 pm cst worked through lunch updated portfolio and began drawing for capstone project will upload pictures once done 
+### 3:59 pm cst worked and finally decided on portfolio project framework https://github.com/simioyin222/Portfolio
