@@ -108,7 +108,7 @@ This plan outlines a comprehensive approach to your capstone project, covering t
 
 still creating - heading home (4:14)
 
-### 6:17 forgot to check in went back to creating portfolio have been updaring it with commits to update it fully
+### 6:17 pm forgot to check in went back to creating portfolio have been updaring it with commits to update it fully
 #### 8:56 pm still was wokring on portfolio gonna siwthc gears and make one more like my capstone to practice tommrow will begin by researxxhing and looking at ideas 
 ## 10am cst - 11 am (8am pst) getting ready and heading to library getting organized 
 ### 11:15 am cst - unknowknow (9:15am pst) researching intuitive simple portfolio ideas 
@@ -116,3 +116,4 @@ still creating - heading home (4:14)
 ### 1:015 PM CST done researrching will begin building again [https://github.com/simioyin222/Portfolio-](https://github.com/simioyin222/Portfolio-DRAFT-IGNORE)
 ### 2:57 pm cst worked through lunch updated portfolio and began drawing for capstone project will upload pictures once done 
 ### 3:59 pm cst worked and finally decided on portfolio project framework https://github.com/simioyin222/Portfolio
+### 4:46 pm cst worked on capstone chjaning the direction of it decding on that, updating portfolio in url above check that progress, addiotlly fixing all project i want to showcase for better leanring of styling editing those as well 
