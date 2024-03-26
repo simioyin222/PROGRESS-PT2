@@ -109,3 +109,4 @@ https://github.com/simioyin222/Portfolio
 still creating - heading home (4:14)
 
 ### 6:17 forgot to check in went back to creating portfolio have been updaring it with commits to update it fully
+#### 8:56 pm still was wokring on portfolio gonna siwthc gears and make one more like my capstone to practice tommrow will begin by researxxhing and looking at ideas 
