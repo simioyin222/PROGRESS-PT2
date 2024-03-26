@@ -111,4 +111,5 @@ still creating - heading home (4:14)
 ### 6:17 forgot to check in went back to creating portfolio have been updaring it with commits to update it fully
 #### 8:56 pm still was wokring on portfolio gonna siwthc gears and make one more like my capstone to practice tommrow will begin by researxxhing and looking at ideas 
 ## 10am cst - 11 am (8am pst) getting ready and heading to library getting organized 
-### 11:15 am cst - unknown  (9:15am pst) researching intuitive simple portfolio ideas 
+### 11:15 am cst - unknowknow (9:15am pst) researching intuitive simple portfolio ideas 
+### 1:01 pm cst  traveled to another library first one i went to (clc) wifi was slow now somehwere better and almost done researching and will start building again 
