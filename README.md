@@ -117,3 +117,19 @@ still creating - heading home (4:14)
 ### 2:57 pm cst worked through lunch updated portfolio and began drawing for capstone project will upload pictures once done 
 ### 3:59 pm cst worked and finally decided on portfolio project framework https://github.com/simioyin222/Portfolio
 ### 4:46 pm cst worked on capstone chjaning the direction of it decding on that, updating portfolio in url above check that progress, addiotlly fixing all project i want to showcase for better leanring of styling editing those as well 
+### 6:40 pm never marked here but forgot to add picture 
+*
+![IMG_1993](https://github.com/simioyin222/PROGRESS-PT2/assets/141048058/08b4abee-9c36-4686-aa69-23a3f8ed6840)![IMG_1991](https://github.com/simioyin222/PROGRESS-PT2/assets/141048058/81d29284-9864-46b3-9da8-0d2af0d70779)
+![IMG_1988](https://github.com/simioyin222/PROGRESS-PT2/assets/141048058/323ea188-d25a-4eca-a1fb-95a2a432e409)
+![IMG_1989](https://github.com/simioyin222/PROGRESS-PT2/assets/141048058/09711b0c-913d-4e65-989f-40facba953c4)
+![IMG_1990](https://github.com/simioyin222/PROGRESS-PT2/assets/141048058/16e7fec1-12f7-4ce1-9216-af2a5663278c)
+![IMG_1994](https://github.com/simioyin222/PROGRESS-PT2/assets/141048058/6b790ce3-372f-402d-92c4-db8cf66c8998)
+
+
+*
+
+## 10 am cst (8 am pst ) preparing for libary and mornnig scrum 
+## 11 am cst (9am pst ) morning scrum till 11:20ish am cst (9:30am pst)
+## 11: 40 am cst (9:40 am pst ) heading to library and settling down 
+
+###  12 :04 pm cst (10:04 am pst) Editing portofolio https://github.com/simioyin222/Professional-Portfolio
