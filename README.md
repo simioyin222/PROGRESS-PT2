@@ -133,3 +133,4 @@ still creating - heading home (4:14)
 ## 11: 40 am cst (9:40 am pst ) heading to library and settling down 
 
 ###  12 :04 pm cst (10:04 am pst) Editing portofolio https://github.com/simioyin222/Professional-Portfolio
+### 4:30 pm cst (2:30 pm pst) plese refer to last commit to see work for the past 4 hours - i am now moving on and will come back to the portfolio once i have better projects to show case i am now creating sketches for those projects and finilzing ideas for my capston and creating sketches ffor that too 
