@@ -134,3 +134,5 @@ still creating - heading home (4:14)
 
 ###  12 :04 pm cst (10:04 am pst) Editing portofolio https://github.com/simioyin222/Professional-Portfolio
 ### 4:30 pm cst (2:30 pm pst) plese refer to last commit to see work for the past 4 hours - i am now moving on and will come back to the portfolio once i have better projects to show case i am now creating sketches for those projects and finilzing ideas for my capston and creating sketches ffor that too 
+### 4:47 pm finalized on capstone ideas ufc fight night event planner 
+### 4:48 pm starting sketch for how i want it to look 
