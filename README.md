@@ -136,3 +136,8 @@ still creating - heading home (4:14)
 ### 4:30 pm cst (2:30 pm pst) plese refer to last commit to see work for the past 4 hours - i am now moving on and will come back to the portfolio once i have better projects to show case i am now creating sketches for those projects and finilzing ideas for my capston and creating sketches ffor that too 
 ### 4:47 pm finalized on capstone ideas ufc fight night event planner 
 ### 4:48 pm starting sketch for how i want it to look 
+### 6:45 pm still sketching and outling idea 
+## 10 : 00 am cst- 11am cst (8 am pst - 9am pst) prepare for morning scrum and going to library 
+### 11:00am - 12 pm (9am pst - 10 am pst) still getting ready and planning out more stuff to day 
+### 12 - 12:30 pm heading to library and arriving and finding spot 
+### 12 :55 pm continunig sketches adn outline for projects will upload pictures when done like previously so will be some time until then 
