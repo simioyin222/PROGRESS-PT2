@@ -141,3 +141,23 @@ still creating - heading home (4:14)
 ### 11:00am - 12 pm (9am pst - 10 am pst) still getting ready and planning out more stuff to day 
 ### 12 - 12:30 pm heading to library and arriving and finding spot 
 ### 12 :55 pm continunig sketches adn outline for projects will upload pictures when done like previously so will be some time until then 
+#### 1:00 pm researching these websites to get an idea how i want to design and style mine 
+Evite: A popular event planning app that allows users to create digital invitations, manage RSVPs, and organize event details. It has a clean and user-friendly interface.
+
+Meetup: An app designed for organizing and finding group events. Users can create events, invite attendees, and manage group activities. It's great for seeing how social interactions are integrated.
+
+Trello: While primarily a project management tool, Trello can be used for event planning with its board and card system. It's useful for observing how information is organized and presented.
+
+Eventbrite: An app for discovering events and managing event tickets. It includes features for creating and promoting events, which could be relevant for your UFC Event Planner concept.
+
+Doodle: A scheduling app that allows users to propose multiple times for an event and vote on the best option. It's a good example of implementing voting functionality.
+
+Slack: Although it's a communication app, Slack can be used for event planning within teams or groups. It demonstrates how to integrate various services and tools in one platform.
+
+Punchbowl: An app for sending digital invitations and managing party planning. It offers ideas for party themes, decorations, and activities, which could be useful for your app's content.
+
+Whova: An event management app that provides features like agenda creation, attendee networking, and exhibitor management. It's an example of a comprehensive event planning tool.
+
+Yelp: Not a direct competitor, but Yelp's integration of services like restaurant reservations and food delivery could provide inspiration for your app's food and drink ordering feature.
+
+Foursquare: Similar to Yelp, Foursquare offers location-based recommendations and could inspire how to incorporate location services into your app.
